@@ -2,3 +2,7 @@ Hey here we will learn most of concept of javascript.
 
 All that code is in comment so just uncomment and run that code one by one.
 
+******************************************************************************************
+
+Now its time to add this code in different name lets see
+
